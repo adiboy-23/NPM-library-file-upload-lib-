@@ -1,0 +1,17 @@
+{
+  "name": "file-upload-lib",
+  "version": "1.1.1",
+  "description": "Advanced file upload library with drag-and-drop, progress tracking, chunked uploads, pause/resume, file compression, encryption, and retries.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": " ^1.4.0",
+    "browser-image-compression": "^2.0.2",
+    "crypto-js": "^4.1.1"
+  },
+  "keywords": ["file-upload", "drag-and-drop", "chunked-uploads", "compression", "encryption", "file-validation"],
+  "author": "Aditya Kadian",
+  "license": "ISC"
+}
